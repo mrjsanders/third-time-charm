@@ -1,4 +1,4 @@
-# datafun-01-foundations
+# third-time-charm
 
 > Professional Python project: creating variables and running code.
 
@@ -58,9 +58,9 @@ Use the instructions above to get it ALL set up correctly.
 Most people open a terminal on their machine (not VS Code), open in their Repos folder and run:
 
 ```shell
-git clone https://github.com/YOURACCOUNT/datafun-01-foundations
+git clone https://github.com/mrjsanders/third-time-charm
 
-cd datafun-01-foundations
+cd third-time-charm
 code .
 ```
 

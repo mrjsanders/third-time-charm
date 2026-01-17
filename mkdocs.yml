@@ -12,15 +12,14 @@
 #
 # WHY-FILE: This data file provides the site structure and settings
 
-site_name: "Project Documentation"
+site_name: "third-time-charm"
 
-#TODO: Change to your GitHub Pages URL.
-site_url: https://denisecase.github.io/datafun-01-foundations/
+site_url: https://github.com/mrjsanders/
 
-#TODO: Change to your GitHub repository URL.
-repo_url: https://github.com/denisecase/datafun-01-foundations
+repo_url: https://github.com/mrjsanders/third-time-charm
+repo_name: "third-time-charm"
 
-site_description: Project documentation.
+site_description: Third attempt at the first real project.
 
 docs_dir: docs
 site_dir: site
@@ -29,8 +28,7 @@ extra:
   # WHY: Social links are optional polish; safe to remove without breaking docs.
   social:
     - icon: fontawesome/brands/github
-      #TODO: Change to your GitHub repository URL.
-      link: https://github.com/denisecase/datafun-01-foundations
+      link: https://github.com/mrjsanders/third-time-charm
 
 # WHY: Material theme is industry standard, well-documented, and low maintenance.
 # CUSTOM: Explore other themes at https://mkdocs.org/about/themes/
